@@ -1,4 +1,4 @@
-# AddFed
+# ADReSS-Fed
 A federated learning project for privacy-preserving Alzheimer's disease detection using speech data from the ADReSS dataset. 
 
 This repository contains the code for a federated learning project focused on privacy-preserving early-stage Alzheimer's disease detection using speech data from the ADReSS dataset.
